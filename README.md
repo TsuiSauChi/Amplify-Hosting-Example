@@ -1,0 +1,1 @@
+# Amplify-Hosting-Example
